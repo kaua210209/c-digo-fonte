@@ -1,4 +1,4 @@
-# c-digo-fonte
+# codigo-fonte
 Sistema de Gerenciamento da Cantina
 Objetivo do programa
 Gerenciar o estoque da cantina, permitindo cadastrar produtos, registrar vendas, repor estoque e alertar sobre níveis críticos.
